@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="btn_boton_rise">Siguiente >> </string>
+    <string name="titulo">Probando Recursos</string>
+    <string name="editar_view">Agregar Elemento</string>
+    <string name="editar_view_des">Puede agregar elemento</string>
+
+    <string-array name="planetas_lista">
+        <item>Mercurio</item>
+        <item>Venuz</item>
+        <item>Tierra</item>
+        <item>Marte</item>
+        <item>Jupiter</item>
+        <item>Urabo</item>
+    </string-array>
+</resources>
